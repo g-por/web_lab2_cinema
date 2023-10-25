@@ -1,0 +1,20 @@
+h2 {
+    font-family: 'Bad Script', cursive, "Times New Roman";;
+    border-bottom: 3px solid #2c3e50;
+    padding-bottom: 10px;
+    word-spacing: 4px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+h2.add{
+    border-top: 3px solid #2c3e50; ;
+}
+h3, h4{
+    text-shadow: 0px 0px 0px rgba(31, 31, 31, 0.315), 0 0 .1em rgb(0, 0, 0);
+}
+
+h2::first-letter{
+    font-size: 30px;
+    color:#3498db;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
